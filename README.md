@@ -6,6 +6,10 @@ The config profiles are broken down into the individual levels and can be deploy
 
 This is a work in progress, more profiles will be added in time and I will update to newer versions as they are released.
 
+You can import the files using the fantastic Intune Manager tool found here: https://github.com/Micke-K/IntuneManagement
+
 Use at your own risk, I always advise you to throughly check the configurations that you are importing to a tenant and test them before production rollout.
 
 Thanks!
+
+
